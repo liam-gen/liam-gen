@@ -6,7 +6,7 @@
 - 🔭 Je viens de lancer mon projet : [Labs & Code](https://labscode.tk) !
 - 🌱 J'apprends actuellement le css 🤣
 - 👯 Je cherche à collaborer avec d'autres créateurs de contenu
-- 🥅 Objectifs 2022 : Contribuer davantage aux projets & avoir beaucoup de clients
+- 🥅 Objectifs 2022 : Contribuer d'avantage aux projets & avoir beaucoup de clients
 - ⚡ Fait amusant : je suis très timide :/ 👉👈
 
 ### Mes réseaux:
