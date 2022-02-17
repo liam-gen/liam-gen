@@ -5,7 +5,7 @@
 
 - 🔭 Je viens de lancer mon projet : [WebPlug](https://webplugin.tk) !
 - 🌱 J'apprends actuellement le css (j'approfondis) 🤣
-- 👯 Je cherche à collaborer avec d'autres créateurs de contenu
+- 👯 Je cherche à collaborer avec d'autres développeurs
 - 🥅 Objectifs 2022 : Contribuer d'avantage aux projets & améliorer le confort des développeurs
 - ⚡ Fait amusant pas si amusant : je suis très timide :/ 👉👈
 
