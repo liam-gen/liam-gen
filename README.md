@@ -3,8 +3,8 @@
 
 ## Je suis développeur backend et étudiant !
 
-- 🔭 Je travaille actuellement sur LGJS App(https://lgjsapp.tk) !
-- 🌱 J'apprends actuellement le css 🤣
+- 🔭 Je travaille actuellement sur **[LGJS App](https://lgjsapp.tk)** !
+- 🌱 J'apprends actuellement le css
 
 ### Mes réseaux:
 
