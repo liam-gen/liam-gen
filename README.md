@@ -15,7 +15,7 @@
 
 ## Mon portfolio
 
-[liamcharpentier.fr](https://liamcharpentier.fr?mtm_campaign=github)
+[liamcharpentier.fr](https://liamcharpentier.fr/?mtm_campaign=github-readme)
 
 ## Me contacter
 
