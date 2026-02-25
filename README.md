@@ -17,7 +17,7 @@
 
 
 ### Système / Outils
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,visualstudio,androidstudio,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,visualstudio,androidstudio,raspberrypi"/>
 
 ## Mon portfolio
 [liamcharpentier.fr](https://liamcharpentier.fr/?mtm_campaign=github-readme)
