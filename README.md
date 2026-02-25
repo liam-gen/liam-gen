@@ -6,11 +6,11 @@
 ## Langages & Technologies
 ### Web
 <p>
-<img src="https://skillicons.dev/icons?i=js,css,html,php,figma,tailwindcss,apache,nginx"/>
+<img src="https://skillicons.dev/icons?i=js,css,html,php,figma,tailwindcss,nginx"/>
 
 
 ### Programmation
-<img src="https://skillicons.dev/icons?i=nodejs,java,c,csharp,cpp,python,electronjs"/>
+<img src="https://skillicons.dev/icons?i=nodejs,java,c,cs,cpp,python,electronjs"/>
 
 ### Base de données
 <img src="https://skillicons.dev/icons?i=sqlite,postgresql,redis,mongodb"/>
